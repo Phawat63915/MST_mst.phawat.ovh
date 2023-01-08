@@ -27,9 +27,21 @@
 
 
 ## 2023-01-05
+- Software (It Support)
+    - Docker
 
 
 ## 2023-01-04
+- Other
+    - ศึกษา
+        - [x] Ascii Table MS-DOS Codepage 874 (Thai)
+        - [x] Unicode
+        - [x] betagro www.betagro.com
+        - [x] Magic® xpi Integration Platform
+        - [x] www.comptia.org
+        - [x] pg strom
+        - [x] cuda core
+
 
 
 ## 2023-01-03
@@ -51,9 +63,30 @@
 
 
 ## 2022-12-29
-
+- Software (It Support)
+    - Wordpress
+        - [x] Install
+            - Ubuntu 20 LTS
+            - Debian 11 LTS
+        - [x] Setup Database
+        - [x] ศึกษาการใช้ Plugin
+        - [x] ศึกษาการตั้งค่า
+        - [x] การจัดการ Roles
+- Other
+    - [x] ศึกษา Product magicsoftware ทั้งหมด
+    - [x] ดูหน้าเว็บของ magicsoftware ทั้งหมด
+    - [x] ประเมิน magicsoftware
 
 ## 2022-12-28
+- OS (It Support)
+    - Ubuntu 20 & 22 LTS
+        - [x] Install and use and setup
+    - Debian 9 & 11
+        - [x] Install
+    - CentOS 7 & 8 & 9
+        - [x] Install
+- Software (It Support)
+    - [x] ศึกษา Wordpress
 
 
 ## 2022-12-27
