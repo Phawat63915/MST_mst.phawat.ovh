@@ -1,0 +1,123 @@
+## 2023-01-09
+
+
+## 2023-01-06
+- RangeForce (Cyber Security)
+    - MITRE ATT&CK
+        - [x] WMI Introduction
+        - [x] WMI Detection
+        - [x] WMI Exercise
+        - [x] Office Macros Introduction
+        - [x] Office Macros Detection
+        - [x] Office Macros Exercise
+    - CVE
+        - [x] CVE-2021-44228 Log4Shell
+        - [x] CVE-2021-34527 PrintNightmare
+        - [x] CVE-2021-3156 Baron Samedit: Hands-on
+        - [x] CVE-2019-15107 WebMin 1.890 Exploit Unauthorized RCE
+    - Ransomware
+        - [x] Ransomware Overview
+        - [x] Introduction to Ryuk Ransomware
+        - [x] Introduction to RansomEXX Ransomware
+        - [x] Introduction to REvil Ransomware
+        - [x] Introduction to BlackMatter Ransomware
+        - [x] Introduction to Hades Ransomware
+        - [x] Introduction to Egregor Ransomware
+        - [x] Introduction to DoppelPaymer Ransomware
+
+
+## 2023-01-05
+
+
+## 2023-01-04
+
+
+## 2023-01-03
+- RangeForce (Cyber Security)
+    - Getting Started
+        - [x] Learner Onboarding Video
+        - [x] Module Tutorial
+    - SQL Injection Attacks
+        - [x] Overview
+        - [x] Prelude
+        - [x] Authentication Bypass
+        - [x] Union Select
+        - [x] Find & Exploit (PHP)
+    - SIEM
+        - [x] Introduction to SIEM and SOAR
+        - [x] Splunk: Basics
+        - [x] Elastic: Elastic Security Basics
+        - [x] QRadar: Basics
+
+
+## 2022-12-29
+
+
+## 2022-12-28
+
+
+## 2022-12-27
+- Other
+    - [x] ทำคู่มือ Sql Server การเปิด Service เพื่อให้ สามารถ Remote
+
+
+## 2022-12-26
+- Other
+    - [x] ทำคู่มือ Sql Server การตั้งค่า AutoBackup
+
+
+## 2022-12-23
+- Other
+    - [x] ทำคู่มือ How to Install Sql Server on Windoes Server 2019
+    - [x] ทำคู่มือ How to Install Windoes Server 2019
+
+
+## 2022-12-22
+- Other
+    - [x] ศึกษา Active directory (AD) คืออะไร
+    - [x] ศึกษาความแตกต่างระหว่าง Windoes Server & Client
+
+
+## 2022-12-21
+- Software (It Support)
+    - SQL Server 2022
+        - Remote by SQL Server Management Studio 19 (SSMS)
+    - SQL Server Management Studio 19 (SSMS)
+        - [x] GUI Remote extanal **VM4** to Sql Server 22 **VM3**
+        - [x] GUI Import Export Backup Database
+- Other
+    - [x] Check List
+
+
+## 2022-12-20
+- OS (It Support)
+    - Windoes Server 2019
+        - [x] Install and Setup
+    - Windoes 10
+        - [x] Install and SetUp
+    - Windoes 11
+        - [x] Install
+- Software (It Support)
+    - SQL Server 2022
+        - [x] Install in **VM1**, **VM3**
+    - SQL Server Management Studio 19 (SSMS)
+        - [x] Install in **VM1**, **VM4**
+    - SQL Server 2019
+        - [x] Install  **VM2**
+    - SQL Server Management Studio 15 (SSMS)
+    - [x] Install  **VM2**
+
+
+## 2022-12-19
+- [x] Introduce yourself to people in the company.
+- Software (Developer)
+    - Nodejs, Sqllite3, ExpressJS, EJS
+        - Create Login System
+            - [x] Register
+            - [x] Login
+        - Database
+            - [x] function call for api
+        - Api backend
+            - [x] auth login 
+            - [x] auth register
+            - [x] check auth
