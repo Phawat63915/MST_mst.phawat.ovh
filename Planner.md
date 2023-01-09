@@ -29,6 +29,10 @@
 ## 2023-01-05
 - Software (It Support)
     - Docker
+        - [x] Install in Windoes 10 64-bit Pro in **VM**
+        - [Fail] Install in Windoes Server 2019 **VM** แก้ Error ไม่ได้
+        - [x] Create Container PostgreSQL
+        - [x] Remote Host OS to Docker Container PostgreSQL
 
 
 ## 2023-01-04
@@ -39,7 +43,7 @@
         - [x] betagro www.betagro.com
         - [x] Magic® xpi Integration Platform
         - [x] www.comptia.org
-        - [x] pg strom
+        - [x] Pg strom
         - [x] cuda core
 
 
