@@ -1,4 +1,5 @@
 # SMB Protocol (For Windoes)
+การใช้ cifs เพื่อให้ mount รองรับ SMB สำหรับ Windoes
 ## Test Connext shere folder 
 #### 1.ติดตั้ง packet
 ```sh
@@ -20,14 +21,20 @@ sudo smbclient //192.168.1.39/server/ -m SMB3 -U phawat
 ```sh
 sudo apt-get install cifs-utils
 ```
-### 2.สร้างโฟเดอร์เพื่อจะได้อ้างอิงจากคำสั่งแชร์มาแทนที่โฟเดอร์นี้
+#### 2.สร้างโฟเดอร์เพื่อจะได้อ้างอิงจากคำสั่งแชร์มาแทนที่โฟเดอร์นี้
 ```sh
 sudo mkdir -p /path/my_mount_dir
 ```
-####
+#### 3.เชื่อมแชร์โปเดอร์เข้ากับ Folder ในเครื่อง
 [เพิ่มเติม cifs option](https://www.samba.org/~ab/output/htmldocs/manpages-3/mount.cifs.8.html)
 ```sh
 sudo mount -t cifs -o "user=phawat" //192.168.1.39/server /path/my_mount_dir
+```
+```sh
+sudo mount -t cifs -o "user=phawat,password=1111" //192.168.1.39/server /path/my_mount_dir
+```
+```sh
+sudo mount -t cifs -o "domain=MYDOMAIN,username=MyUserName,password=myPas$werd,sec=ntlm,vers=3.0" //(your windows host ip)/(your remote share name) /mnt/my_mount_dir
 ```
 ####
 ## Remove Shere folder 
