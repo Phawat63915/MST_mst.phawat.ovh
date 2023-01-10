@@ -1,0 +1,1 @@
+sudo docker run -it -v /test:/wtfwtf --name wowlol -e POSTGRES_PASSWORD=phawat -d postgres
