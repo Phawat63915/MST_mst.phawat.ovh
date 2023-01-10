@@ -1,4 +1,14 @@
 ## 2023-01-09
+- Network
+    - Mikrotik
+        - [x] DHCP
+        - [x] Fail Over
+        - [x] Fail Over + Load balancing with DNS check out internet
+- Other
+    - Linux (Unit Command)
+        - [x] ศึกษาความแตกต่างระหว่าง คำสั่ง แก้ไขไฟล์ Nano กับ Vi ข้อดีข้อเสีย
+    - [x] ออกแบบหน้าเว็บ Login ระบบอินเตอร์เน็ต mikrotik ด้วย html, css, javascript
+## 2023-01-09
 
 
 ## 2023-01-06
