@@ -1,14 +1,63 @@
+## 2023-01-13
+
+
+
+## 2023-01-12
+- Network
+    - TP-LINK
+        - [x] DHCP
+        - [x] Fail Over
+        - [x] Fail Over + Load balancing Switch interface
+        - [x] Firewall Simple Config such as block www.google.com
+
+- Software (Programming)
+    - Docker
+        - Compose plugin
+            - Using commands to manage
+                - [x] Container & Images (CRUD)
+            - Stack build
+                - [x] Postgresql Image Docker + Backup extanal drive
+                - [x] Postgresql Image + Nodejs Image Docker (PERN Stack)
+
+
+## 2023-01-11
+- Software (Programming)
+    - Docker
+        - Install
+            - [x] Docker on Ubuntu 22.04 LTS
+            - [x] Compose plugin on Ubuntu 22.04 LTS
+        - Using commands to manage
+            - [x] Docker network (CRUD)
+            - [x] Docker container (CRUD)
+            - [x] Docker images (CRUD)
+            - [x] Docker export & import (CRUD)
+            - [x] Docker Inspect container
+            - [x] Docker Inspect network
+- Other
+    - Linux (Unit Command)
+        - [x] Curl for GET HTTP test intanal and extanal Docker container
+        - ศึกษาการใข้ 
+            - [x] Docker Compose plugin
+        - ศึกษาการเขียน 
+            - [x] Dockerfile
+            - [x] docker-compose.yml
+            - [x] bash script *.sh
+            - [x] bash script *.cmd *.bat
+
+
+## 2023-01-10
+- Other
+    - Linux (Unit Command)
+        - [x] ศึกษาความแตกต่างระหว่าง คำสั่ง แก้ไขไฟล์ Nano กับ Vi ข้อดีข้อเสีย
+    - [x] ออกแบบหน้าเว็บ Login ระบบอินเตอร์เน็ต mikrotik ด้วย html, css, javascript
+
+
 ## 2023-01-09
 - Network
     - Mikrotik
         - [x] DHCP
         - [x] Fail Over
         - [x] Fail Over + Load balancing with DNS check out internet
-- Other
-    - Linux (Unit Command)
-        - [x] ศึกษาความแตกต่างระหว่าง คำสั่ง แก้ไขไฟล์ Nano กับ Vi ข้อดีข้อเสีย
-    - [x] ออกแบบหน้าเว็บ Login ระบบอินเตอร์เน็ต mikrotik ด้วย html, css, javascript
-## 2023-01-09
 
 
 ## 2023-01-06
