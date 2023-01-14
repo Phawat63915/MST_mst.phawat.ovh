@@ -3,7 +3,9 @@
 ## Test Connext shere folder 
 #### 1.ติดตั้ง packet
 ```sh
-sudo apt smbclient install
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get smbclient install
 ```
 #### 2.คำสั่งทดสอบ
 ##### 2.1 แบบที่ 1 คำสั่งทดสอบ <br>
@@ -40,5 +42,16 @@ sudo mount -t cifs -o "domain=MYDOMAIN,username=MyUserName,password=myPas$werd,s
 ## Remove Shere folder 
 #### 1.ยกเลิกการแชร์โฟเดอร์
 ```sh
-umount -l -f //192.168.1.39/server
+sudo umount -l -f //192.168.1.39/server
+```
+## Fix mount folder missing after restart
+จากการใช้คำสั่งด้านบน หาก Restart Server mount จะถูกยกเลิกและหายไป วิธีการแก้ทำตามขั้นตอนนี้
+#### 1.ให้เปิดแก้ไขไฟล์
+```bash
+sudo nano /etc/fstab 
+```
+#### 2.เพิ่มบรรทัดด้านล่าง ไปที่ `/etc/fstab`
+`//ที่อยู่แชร์ไฟล์/โฟเดอร์แชร์ /ที่อยู่ภายในเครื่องที่จะเมาร์ cifs username=ชื่อผู้ใช้,password=รหัส`
+```fstab
+//192.168.56.1/server_docker /root/phawatv cifs username=phawat,password=1111
 ```
