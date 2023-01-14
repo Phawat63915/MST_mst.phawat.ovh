@@ -11,13 +11,12 @@
         - [x] Firewall Simple Config such as block www.google.com
 
 - Software (Programming)
-    - Docker
-        - Compose plugin
-            - Using commands to manage
-                - [x] Container & Images (CRUD)
-            - Stack build
-                - [x] Postgresql Image Docker + Backup extanal drive
-                - [x] Postgresql Image + Nodejs Image Docker (PERN Stack)
+    - Docker Compose plugin
+        - Using commands to manage
+            - [x] Container & Images (CRUD)
+        - Stack build
+            - [x] Postgresql Image Docker + Backup extanal drive
+            - [x] Postgresql Image + Nodejs Image Docker (PERN Stack)
 
 
 ## 2023-01-11
