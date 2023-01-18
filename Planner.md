@@ -1,6 +1,14 @@
+## 2023-01-18
+## 2023-01-17
+## 2023-01-16
+
+
 ## 2023-01-13
-
-
+- Network
+    - Mikrotik
+        - [x] Hotspot NAT
+        - [x] Hotspot Bandwidth limit
+        - [x] Hotspot Login
 
 ## 2023-01-12
 - Network
@@ -55,6 +63,8 @@
 - Network
     - Mikrotik
         - [x] DHCP
+        - [x] DHCP VLAN
+        - [x] DHCP Bandwidth limit 
         - [x] Fail Over
         - [x] Fail Over + Load balancing with DNS check out internet
 
