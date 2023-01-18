@@ -17,8 +17,7 @@ sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt $
 ```
 Next import the GPG signing key for the repository. Do this by running the following command.
 ```sh
-# sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list'
-(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list'
+# sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list' (lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list'
 rm -rf /etc/apt/trusted.gpg.d/pgdg.asc & curl https://www.postgresql.org/media/keys/ACCC4CF8.asc -o /etc/apt/trusted.gpg.d/pgdg.asc
 ```
 Finally, update the system packages so that the changes above can take effect.
