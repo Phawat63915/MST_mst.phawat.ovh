@@ -68,3 +68,15 @@ mount
 ```
 mount 192.168.56.101:/var/shared S:\
 ```
+
+## Fix mount folder missing after restart
+จากการใช้คำสั่งด้านบน หาก Restart Server mount จะถูกยกเลิกและหายไป วิธีการแก้ทำตามขั้นตอนนี้
+#### 1.ให้เปิดแก้ไขไฟล์
+```bash
+sudo nano /etc/fstab 
+```
+#### 2.เพิ่มบรรทัดด้านล่าง ไปที่ `/etc/fstab`
+`Server:/path/to/export /local_mountpoint nfs <options> 0 0`
+```fstab
+192.168.0.216:/mnt/HDD1 /media/freenas/ nfs rw,bg,soft,intr,nosuid 0 0
+```
