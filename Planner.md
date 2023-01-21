@@ -24,11 +24,8 @@
 - Software (It Support)
     - Elastic Stack
         - [x] Kibana
-        - [Fail] Kibana use Dashboard 
         - [x] Elasticsearch SetUp
-        - [Fail] Elasticsearch use Dashboard 
         - [x] Logstash to file.log
-        - [Fail] Logstash to Elasticsearch
 
 
 ## 2023-01-13
@@ -73,13 +70,13 @@
 - Other
     - Linux (Unit Command)
         - [x] Curl for GET HTTP test intanal and extanal Docker container
-        - ศึกษาการใข้ 
-            - [x] Docker Compose plugin
-        - ศึกษาการเขียน 
-            - [x] Dockerfile
-            - [x] docker-compose.yml
-            - [x] bash script *.sh
-            - [x] bash script *.cmd *.bat
+    - ศึกษาการใข้ 
+        - [x] Docker Compose plugin
+    - ศึกษาการเขียน 
+        - [x] Dockerfile
+        - [x] docker-compose.yml
+        - [x] bash script *.sh
+        - [x] bash script *.cmd *.bat
 
 
 ## 2023-01-10
