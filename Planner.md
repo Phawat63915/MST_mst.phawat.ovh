@@ -1,5 +1,7 @@
 ## 2023-01-19
 - Null
+
+
 ## 2023-01-18
 - Software (It Support)
     - Elastic Stack
@@ -8,6 +10,7 @@
         - [Fail] Logstash to Elasticsearc
         - [Fail] Elastic Stack Setup
 
+
 ## 2023-01-17
 - Software (It Support)
     - Elastic Stack
@@ -15,6 +18,7 @@
         - [Fail] Elasticsearch use Dashboard
         - [Fail] Logstash to Elasticsearc
         - [Fail] Elastic Stack Setup
+
 
 ## 2023-01-16
 - Software (It Support)
@@ -26,12 +30,15 @@
         - [x] Logstash to file.log
         - [Fail] Logstash to Elasticsearch
 
+
 ## 2023-01-13
 - Network
     - Mikrotik
         - [x] Hotspot NAT
         - [x] Hotspot Bandwidth limit
         - [x] Hotspot Login
+
+
 
 ## 2023-01-12
 - Network
@@ -138,7 +145,6 @@
         - [x] cuda core
 
 
-
 ## 2023-01-03
 - RangeForce (Cyber Security)
     - Getting Started
@@ -172,6 +178,7 @@
     - [x] ดูหน้าเว็บของ magicsoftware ทั้งหมด
     - [x] ประเมิน magicsoftware
     - [x] แก้ไขหน้าเว็บ Wordpress ตามสั่ง
+
 
 ## 2022-12-28
 - OS (It Support)
