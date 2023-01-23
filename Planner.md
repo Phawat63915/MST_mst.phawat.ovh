@@ -23,14 +23,22 @@
 ## 2023-01-23
 
 
+
+
 <!-- Week 5 -->
 
 ## 2023-01-20
 - Null
 
 ## 2023-01-19
-- Null
-
+- Other
+    - SetUp เครื่องเสียง
+- Software (It Support)
+    - Elastic Stack
+        - [Fail] Kibana use Dashboard
+        - [Fail] Elasticsearch use Dashboard
+        - [Fail] Logstash to Elasticsearc
+        - [Fail] Elastic Stack Setup
 
 ## 2023-01-18
 - Software (It Support)
