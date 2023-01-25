@@ -52,8 +52,8 @@
     - [x] .NET (Logic) Simple [(View Project)](https://github.com/Phawat63915?tab=repositories&q=MST&type=&language=&sort=)
     - [x] ASP.NET (Logic) Simple [(View Project)](https://github.com/Phawat63915?tab=repositories&q=MST&type=&language=&sort=)
     - [x] .NET CORE (REST API) Simple [(View Project)](https://github.com/Phawat63915?tab=repositories&q=MST&type=&language=&sort=)
-    - [x] ISS Web Server
-    - [x] ISSNODE
+    - [x] IIS Web Server
+    - [x] IISNODE
 
 
 <!-- Week 5 -->
