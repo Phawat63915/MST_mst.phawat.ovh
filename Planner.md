@@ -23,6 +23,7 @@
 ## 2023-01-27
 - Schools
     - [?] Internship report book
+    - [?] Check NoteBook the list of internship records.
 
 ## 2023-01-26
 - Software (Developer)
@@ -45,12 +46,12 @@
 
 ## 2023-01-23
 - Learning
-    - [x] NodeJS
-    - [x] Batch Script
-    - [x] PowerShell Script
-    - [x] .NET (Logic) Simple
-    - [x] ASP.NET (Logic) Simple
-    - [x] .NET CORE (REST API) Simple
+    - [x] NodeJS [(View Project)](google.com)
+    - [x] Batch Script [(View Project)](google.com)
+    - [x] PowerShell Script [(View Project)](google.com)
+    - [x] .NET (Logic) Simple [(View Project)](google.com)
+    - [x] ASP.NET (Logic) Simple [(View Project)](google.com)
+    - [x] .NET CORE (REST API) Simple [(View Project)](google.com)
     - [x] ISS Web Server
     - [x] ISSNODE
 
