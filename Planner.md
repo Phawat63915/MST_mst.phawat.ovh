@@ -20,6 +20,27 @@
 
 <!-- Week 6 -->
 
+## 2023-01-26
+- Software (Developer)
+    - PowerShell Fix Some Thing Product
+        - [x] Rebuild to ToolKit
+
+
+## 2023-01-25
+- Software (Developer)
+    - PowerShell Fix Some Thing Product
+        - [x] Convert from NodeJS Javascript to Shell Script
+
+
+## 2023-01-24
+- Software (Developer)
+    - NodeJS Fix Some Thing Product
+        - [x] Spoof Script for Gen Token
+        - [x] Fix Problem
+        - [x] Encounter a problem
+
+
+
 ## 2023-01-23
 
 
