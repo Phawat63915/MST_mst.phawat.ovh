@@ -20,17 +20,19 @@
 
 <!-- Week 6 -->
 
+## 2023-01-27
+- Schools
+    - [?] Internship report book
+
 ## 2023-01-26
 - Software (Developer)
     - PowerShell Fix Some Thing Product
-        - [x] Rebuild to ToolKit
-
+        - [?] Rebuild to ToolKit
 
 ## 2023-01-25
 - Software (Developer)
     - PowerShell Fix Some Thing Product
         - [x] Convert from NodeJS Javascript to Shell Script
-
 
 ## 2023-01-24
 - Software (Developer)
@@ -38,18 +40,25 @@
         - [x] Spoof Script for Gen Token
         - [x] Fix Problem
         - [x] Encounter a problem
-
-
+- Learning
+    - [x] linux unit Iptables.service
 
 ## 2023-01-23
-
-
+- Learning
+    - [x] NodeJS
+    - [x] Batch Script
+    - [x] PowerShell Script
+    - [x] .NET (Logic) Simple
+    - [x] ASP.NET (Logic) Simple
+    - [x] .NET CORE (REST API) Simple
+    - [x] ISS Web Server
+    - [x] ISSNODE
 
 
 <!-- Week 5 -->
 
 ## 2023-01-20
-- Null
+- Null กินแลี้ยงไม่มีไรนิ
 
 ## 2023-01-19
 - Other
@@ -60,6 +69,7 @@
         - [Fail] Elasticsearch use Dashboard
         - [Fail] Logstash to Elasticsearc
         - [Fail] Elastic Stack Setup
+        - [?] Elk download and Find .OVA Image VM
 
 ## 2023-01-18
 - Software (It Support)
