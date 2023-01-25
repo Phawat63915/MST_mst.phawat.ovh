@@ -46,12 +46,12 @@
 
 ## 2023-01-23
 - Learning
-    - [x] NodeJS [(View Project)](google.com)
-    - [x] Batch Script [(View Project)](google.com)
-    - [x] PowerShell Script [(View Project)](google.com)
-    - [x] .NET (Logic) Simple [(View Project)](google.com)
-    - [x] ASP.NET (Logic) Simple [(View Project)](google.com)
-    - [x] .NET CORE (REST API) Simple [(View Project)](google.com)
+    - [x] NodeJS [(View Project)](https://github.com/Phawat63915?tab=repositories&q=MST&type=&language=&sort=)
+    - [x] Batch Script [(View Project)](https://github.com/Phawat63915?tab=repositories&q=MST&type=&language=&sort=)
+    - [x] PowerShell Script [(View Project)](https://github.com/Phawat63915?tab=repositories&q=MST&type=&language=&sort=)
+    - [x] .NET (Logic) Simple [(View Project)](https://github.com/Phawat63915?tab=repositories&q=MST&type=&language=&sort=)
+    - [x] ASP.NET (Logic) Simple [(View Project)](https://github.com/Phawat63915?tab=repositories&q=MST&type=&language=&sort=)
+    - [x] .NET CORE (REST API) Simple [(View Project)](https://github.com/Phawat63915?tab=repositories&q=MST&type=&language=&sort=)
     - [x] ISS Web Server
     - [x] ISSNODE
 
