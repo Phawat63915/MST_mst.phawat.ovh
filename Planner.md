@@ -113,7 +113,7 @@
 
 ## 2023-01-30
 - Learning
-    - Commansds
+    - Linux Unit Commands
         - [x] ls, cd, pwd, mkdir, rmdir, rm, cp, mv, cat, nano, vim, grep, find, df, du, top, ps, kill, killall, systemctl, service, reboot, shutdown, ifconfig, ip, ping, traceroute, wget, curl, tar, unzip, zip, chown, chmod, chgrp, useradd, userdel, groupadd, groupdel, passwd, sudo, su, ssh, scp, rsync, mount, umount, apt, apt-get
 
 <!-- Week 6 -->
