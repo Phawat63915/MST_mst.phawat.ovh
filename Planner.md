@@ -5,18 +5,116 @@
 
 <!-- Week 9 -->
 
+## 2023-02-15
 
+## 2023-02-14
+
+## 2023-02-13
+- Software (Administrator Database) [LAB]
+    - [x] Postgresql HandBook Point in time recovery (PITR)
 
 
 <!-- Week 8 -->
 
+## 2023-02-10
+- Software (Administrator Database)
+    - [x] Postgresql point in time recovery
+    - [x] Postgresql backup
+    - [x] Postgresql restore
+    - [x] Postgresql backup to external drive
+    - [x] Postgresql restore from external drive
+    - [x] barman Introduction
 
+## 2023-02-09
+- Software (Programming)
+    - Docker
+        - [x] Postgresql Image Docker
+        - [x] Postgresql Image Docker + Backup extanal drive
+
+## 2023-02-08
+- Network
+    - Mikrotik (ทำในเครื่องจริงตามโจทย์ที่พี่กำหนด)
+        - [x] Load balancing Switch interface
+        - [x] Fail Over + Load balancing Switch interface
+        - [x] Fail Over + Load balancing Switch interface + Bandwidth limit
+
+## 2023-02-07
+- Software (Programming)
+    - Oracle VM VirtualBox (Script Auto SetUp)
+        - [x] Install Oracle VM VirtualBox
+        - [x] Install Ubuntu 22.04 LTS
+        - [x] Install Ubuntu 22.04 LTS + Docker
+        - [x] Install Ubuntu 22.04 LTS + Docker + Compose plugin
+        - [x] Install Ubuntu 22.04 LTS + Docker + Compose plugin + Postgresql Image Docker
+        - [x] Install Ubuntu 22.04 LTS + Docker + Compose plugin + Postgresql Image Docker + Mount extanal drive (Main Host)
+
+## 2023-02-06
+- Software (Programming)
+    - Oracle VM VirtualBox (Script Auto SetUp)
+        - [x] Script to Install Ubuntu 22.04 LTS (Auto Fix IP)
 
 
 <!-- Week 7 -->
 
+## 2023-02-03
+- Learning
+    - [x] Linux Unit
+        - [x] Iptables.service (CLI)
+        - [x] Ufw.service (CLI)
+        - [x] Nginx.service (CLI)
+        - [x] Apache2.service (CLI)
+        - [x] Postgresql.service (CLI)
+        - [x] Docker.service (CLI)
+        - [x] Docker-compose.service (CLI)
+
+## 2023-02-02
+- Learning
+    - Advance Shell Script Language
+        - PowerShell (ps1, psd1) Windoes
+        - Cmd (bat, cmd) Windoes
+        - Bash (sh) Linux
+
+## 2023-02-01
+- Network
+    - Couldflare
+        - [x] Cloudflare DNS
+        - [x] Cloudflare Firewall
+        - [x] Cloudflare Page Rules
+        - [x] Cloudflare Workers
+        - [x] Cloudflare Workers + Cloudflare DNS
+        - [x] Cloudflare Workers + Cloudflare DNS + Cloudflare Firewall
+        - [x] Cloudflare Workers + Cloudflare DNS + Cloudflare Firewall + Cloudflare Page Rules
+    - Docker
+        - [x] Docker Nginx + SSL + Cloudflare Doamin
+    - ZoreSSl
+        - [x] ZoreSSL SSL
+        - [x] ZoreSSL SSL + Cloudflare Doamin
+
+- Learning
+    - Linux Unit
+        - [x] openssl
 
 
+## 2023-01-31
+- Software (It Support)
+    - NFS (Ubuntu 22.04 LTS) Linux
+        - [x] NFS Server
+        - [x] NFS Client
+        - [x] NFS Server + Client
+        - [x] NFS Server + Client + Mount Commands
+        - [x] NFS Server + Client + Mount + Auto Mount + Auto Mount on Boot
+    - Samba (Ubuntu 22.04 LTS) Linux
+        - [x] Samba Server
+        - [x] Samba Client
+        - [x] Samba Server + Client
+        - [x] Samba Server + Client + Mount Commands
+        - [x] Samba Server + Client + Mount + Auto Mount + Auto Mount on Boot
+
+
+## 2023-01-30
+- Learning
+    - Commansds
+        - [x] ls, cd, pwd, mkdir, rmdir, rm, cp, mv, cat, nano, vim, grep, find, df, du, top, ps, kill, killall, systemctl, service, reboot, shutdown, ifconfig, ip, ping, traceroute, wget, curl, tar, unzip, zip, chown, chmod, chgrp, useradd, userdel, groupadd, groupdel, passwd, sudo, su, ssh, scp, rsync, mount, umount, apt, apt-get
 
 <!-- Week 6 -->
 
